@@ -1,0 +1,41 @@
+body{
+background-image: url("images/cover-eloquent-ruby.jpg");
+}
+
+p.title{
+  text-align: center;  
+  font-size: 30px;
+  color: brown;
+  font-weight: 800;
+  
+}
+p{
+margin-left: 150px;
+margin-right: 200px;
+margin-bottom: 25px;
+text-indent: 50px;
+
+}
+p.info{
+text-align: left;  
+font-weight:bold;
+
+}
+p.description{
+text-align: left; 
+}
+p.review-header{
+text-align: left;  
+font-weight: 800;
+background-color: #f5ebdc;
+border: #060d5b 1px solid;
+
+
+}
+p.review{
+    text-align: justify;  
+    background-color:#cacab6;
+    background: linear-gradient(90deg, #9cdac9 0%, rgba(255,255,255,1) 50%, rgb(238, 230, 174) 100%);
+
+
+}
